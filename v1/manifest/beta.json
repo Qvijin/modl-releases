@@ -1,8 +1,8 @@
 {
   "schema": 1,
   "channel": "beta",
-  "issued_at": "2026-11-17T20:56:56.697Z",
-  "expires_at": "2027-05-16T20:56:56.697Z",
+  "issued_at": "2026-11-17T20:57:07.712Z",
+  "expires_at": "2027-05-16T20:57:07.712Z",
   "latest": "1.4.28",
   "min_supported": "1.2.0",
   "releases": [
